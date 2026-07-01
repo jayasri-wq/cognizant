@@ -1,0 +1,5 @@
+TASK 3:
+- Identified N+1 problem in ORM
+- Used joinedload to fix it
+- Reduced multiple queries to single JOIN query
+- Improved performance
